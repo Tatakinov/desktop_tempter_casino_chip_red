@@ -1,0 +1,9 @@
+charset,Shift_JIS
+type,ghost
+
+//ゴーストの名前
+name,卓上誘技用カジノチップ(赤)
+
+//インストールするフォルダ名
+directory,desktop_tempter_casino_chip_red
+

@@ -1,0 +1,7 @@
+type,shell
+charset,UTF-8
+name,master
+
+craftman,Tatakinov
+craftmanw,タタキノフ
+
